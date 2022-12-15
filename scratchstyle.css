@@ -1,0 +1,12 @@
+
+
+body {
+    background-color: #ab31af;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#video {
+    margin: 1;
+    border: white;
+}
